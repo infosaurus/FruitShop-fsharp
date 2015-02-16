@@ -1,0 +1,8 @@
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\bin\Debug\FruitShop.exe.config
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\bin\Debug\FruitShop.XML
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\bin\Debug\FruitShop.exe
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\bin\Debug\FruitShop.pdb
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\bin\Debug\FSharp.Core.dll
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\bin\Debug\FSharp.Core.xml
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\obj\Debug\FruitShop.exe
+c:\users\glebur\documents\visual studio 2013\Projects\FruitShop\FruitShop\obj\Debug\FruitShop.pdb
